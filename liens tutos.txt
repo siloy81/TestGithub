@@ -1,0 +1,9 @@
+
+tuto 4
+https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github
+
+Tuto 5
+https://openclassrooms.com/fr/courses/4425111-perfectionnez-vous-en-python
+
+Tuto 6
+https://openclassrooms.com/fr/courses/4525296-maitrisez-les-bases-des-probabilites
