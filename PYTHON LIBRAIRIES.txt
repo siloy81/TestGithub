@@ -1,0 +1,29 @@
+NumPy
+SciPy
+Pandas
+Scikit-learn
+Matplotlib
+Seaborn
+Statsmodels
+BeautifulSoup
+NetworkX
+NLTK
+Gensim
+XGBoost
+LightGBM
+CatBoost
+TensorFlow
+Keras
+
+********************************************************
+comment trouver la liste des erreur et avertissement en python
+comment trouver les primitives du langage python
+---------
+
+Exceptions du langage
+
+
+On distingue deux types d’exceptions :
+• Les erreurs qui provoquent l’arrêt de l’exécution du code et doivent être interceptées par une directive try..except.
+• Les avertissements, dérivés de l’exception de base Warning, utilisés avec la fonction warn du module warnings, 
+et qui se contentent dans ce cas d’afficher un message d’avertissement sans interrompre l’exécution du programme.
