@@ -1,6 +1,9 @@
 tuto 2 
 https://openclassrooms.com/fr/courses/4302126-decouvrez-la-programmation-orientee-objet-avec-python
 
+tuto 3
+https://openclassrooms.com/fr/courses/4366701-decouvrez-le-fonctionnement-des-algorithmes
+
 tuto 4
 https://openclassrooms.com/fr/courses/2342361-gerez-votre-code-avec-git-et-github
 
