@@ -1,3 +1,9 @@
+Liste des tuto pour le tronc commun developer abidjan 2019
+
+ici sont consigné les liens de differents tutos que j'ai eu à suivre dans le cadre du Africa Techp Tour Abidjan 2019 pour ce qui concerne le parcours tronc commun 
+
+Au sortir ce cette phase, nous sommes censés posseder les connaissances minimum pour aborder le reste de la formation en les diverses specialités
+
 tuto 1
 https://openclassrooms.com/fr/courses/4262331-demarrez-votre-projet-avec-python
 
