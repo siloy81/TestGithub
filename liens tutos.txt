@@ -1,3 +1,6 @@
+tuto 1
+https://openclassrooms.com/fr/courses/4262331-demarrez-votre-projet-avec-python
+
 tuto 2 
 https://openclassrooms.com/fr/courses/4302126-decouvrez-la-programmation-orientee-objet-avec-python
 
